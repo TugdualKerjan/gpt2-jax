@@ -6,7 +6,7 @@ A JAX-based implementation of GPT2, heavily based on XTTS. This model is part of
 
 ## Overview
 
-This project leverages **JAX** and **Equinox** for a HiFiGAN model focused on audio data, copying [XTTS](https://github.com/coqui-ai/TTS)'s structure.
+This project leverages **JAX** and **Equinox** to develop a GPT2 model, and replicate [XTTS](https://github.com/coqui-ai/TTS)'s implementation, based on HF's libraries.
 
 ## Features
 
